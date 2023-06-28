@@ -1,0 +1,156 @@
+body {
+  font-family: "Montserrat", sans-serif;
+
+  background: #ecf1f8;
+}
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  width: 1200px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+aside {
+  width: 370px;
+  background: #1e2939;
+}
+.photo {
+  display: flex;
+  margin: 50px 0 0 50px;
+  justify-content: center;
+}
+.left_header {
+  color: #ffffff;
+}
+.contact_links {
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.link {
+  color: gray;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+}
+.left_list {
+  color: #fb6d3a;
+  font-size: 14px;
+  line-height: 24px;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside;
+}
+.left_text {
+  color: #ffffff;
+}
+.contact_block {
+  margin: 25px 0 0 40px;
+}
+.tech_block {
+  margin: 47px 0 0 40px;
+}
+.soft_block {
+  margin: 47px 0 0 40px;
+}
+main {
+  padding: 102px 88px 102px 88px;
+}
+.main_box_one {
+  width: 400px;
+  margin-bottom: 40px;
+}
+.job_title {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+}
+h1 {
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+}
+.desc {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.projects {
+  width: 485px;
+  margin-bottom: 51px;
+}
+.main_list {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  padding: 0 0 0 0;
+  list-style-position: inside;
+}
+.main_list_item {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  text-decoration: none;
+}
+.main_header {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  padding-bottom: 12px;
+}
+.main_header2 {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  padding-bottom: 12px;
+  margin-top: 43px;
+}
+.job_name {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+}
+.highlight {
+  color: #fb6d3a;
+}
+.job_date {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+}
+.main_list_item_two {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  text-decoration: none;
+  padding: 0 0 0 0;
+  list-style-position: inside;
+}
+.education {
+  margin-top: 43px;
+}
+.education_header {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+}
+.education_place {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fb6d3a;
+}
+.education_item {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+}
+.empty {
+  height: 15em;
+}
