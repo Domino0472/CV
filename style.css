@@ -76,6 +76,7 @@ h1 {
   font-size: 14px;
   line-height: 24px;
   color: #595959;
+  text-align: justify;
 }
 .projects {
   width: 485px;
