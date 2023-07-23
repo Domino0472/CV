@@ -75,6 +75,7 @@ h1 {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
+  width: 500px;
   color: #595959;
   text-align: justify;
 }
@@ -136,6 +137,7 @@ h1 {
 }
 .main_list_item_three {
   margin: 0 0 0 20px;
+  text-align: justify;
 }
 .education {
   margin-top: 43px;
@@ -149,10 +151,11 @@ h1 {
   font-weight: 700;
   font-size: 16px;
   line-height: 20px;
-  background: linear-gradient(135deg, #ff0000 20%, #ffa900 80%);
+  color: #fb6d3a;
+  /* background: linear-gradient(135deg, #ff0000 20%, #ffa900 80%);
 
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: transparent; */
 }
 .education_item {
   font-weight: 700;
@@ -164,4 +167,11 @@ h1 {
 }
 .bold {
   font-weight: 700;
+}
+.data_proc_item {
+  font-family: "Montserrat";
+  margin-top: 43px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
 }
