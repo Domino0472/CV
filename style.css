@@ -1,7 +1,7 @@
 body {
   font-family: "Montserrat", sans-serif;
   margin: 0;
-
+  padding: 0;
   background: #ecf1f8;
 }
 .wrapper {
@@ -56,7 +56,7 @@ aside {
   margin: 47px 0 0 40px;
 }
 main {
-  padding: 102px 88px 102px 88px;
+  padding: 102px 88px 14px 88px; /*  jeśli zmiejszamy padding bottom to o tyle trzeba zwięksyć w data_proc_item margin top */
 }
 .main_box_one {
   width: 400px;
@@ -88,7 +88,7 @@ h1 {
   font-weight: 700;
   font-size: 14px;
   line-height: 24px;
-  padding: 0 0 0 0;
+  padding: 0;
   margin-left: 20px;
   list-style-position: outside;
 }
@@ -132,7 +132,7 @@ h1 {
   line-height: 24px;
   color: #595959;
   text-decoration: none;
-  padding: 0 0 0 0;
+  padding: 0;
   list-style: inside;
   list-style-position: outside;
 }
@@ -163,15 +163,13 @@ h1 {
   font-size: 14px;
   line-height: 17px;
 }
-.empty {
-  height: 20px;
-}
+
 .bold {
   font-weight: 700;
 }
 .data_proc_item {
   font-family: "Montserrat";
-  margin-top: 43px;
+  margin-top: 125px;
   font-weight: 400;
   font-size: 14px;
   line-height: 17px;
