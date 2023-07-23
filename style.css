@@ -1,6 +1,6 @@
 body {
   font-family: "Montserrat", sans-serif;
-  margin: 0 0 0 0;
+  margin: 0;
 
   background: #ecf1f8;
 }
@@ -164,7 +164,7 @@ h1 {
   line-height: 17px;
 }
 .empty {
-  height: 10em;
+  height: 5em;
 }
 .bold {
   font-weight: 700;
