@@ -76,7 +76,7 @@ h1 {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-  width: 500px;
+  width: 660px;
   color: #595959;
   text-align: justify;
 }
@@ -164,7 +164,7 @@ h1 {
   line-height: 17px;
 }
 .empty {
-  height: 43px;
+  height: 18px;
 }
 .bold {
   font-weight: 700;
