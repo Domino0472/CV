@@ -163,13 +163,16 @@ h1 {
   font-size: 14px;
   line-height: 17px;
 }
-
+.cer {
+  display: block;
+  margin: 0 auto;
+}
 .bold {
   font-weight: 700;
 }
 .data_proc_item {
   font-family: "Montserrat";
-  margin-top: 125px;
+  margin-top: 32px;
   font-weight: 400;
   font-size: 14px;
   line-height: 17px;
